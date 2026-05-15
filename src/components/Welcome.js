@@ -7,7 +7,7 @@ const Welcome = ({name}) => {
   return (
     <div>
       <h1><p>Hey! {name}</p></h1>
-      <h2>Welcome to School.</h2>
+      <p>Welcome to School.</p>
     </div>
   )
 }
